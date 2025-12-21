@@ -1,4 +1,5 @@
-![logo](https://github.com/jbaguio27/jbaguio27/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner%20(2).png?raw=true)
+<img width="2079" height="519" alt="image" src="https://github.com/user-attachments/assets/7110899a-213d-4ad7-b926-4356f8407e93" />
+
 <h1 align="center">Hi 👋, I'm Joseph Baguio</h1>
 <h4 align="center">I am an aspiring Data Engineer with hands on experience building data pipelines through coursework, labs, and personal projects. I work with SQL, Python, Apache Spark, and Databricks to clean, transform, and analyze data. I have experience using cloud based tools such as Azure Databricks, Delta Lake concepts, and lakehouse style architectures through guided projects and practice environments. I am currently strengthening my skills in data engineering fundamentals, distributed data processing, and cloud data workflows. I enjoy learning continuously and improving my technical skills as I prepare for a professional role in data engineering.</h4>
 
