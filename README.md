@@ -1,7 +1,11 @@
 <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/49f7e403-c4d2-4aa3-87d4-41d67499da99" />
 
 <h1 align="center">Hi 👋, I'm Joseph Baguio</h1>
-<h4 align="center">I am a Data Engineer with hands-on experience building cloud-native data platforms and end-to-end ELT pipelines using Azure, AWS, Databricks, Snowflake, and dbt. I work primarily with Python, SQL, Spark, and PySpark to design incremental pipelines, implement CDC and SCD patterns, and deliver analytics-ready data models. I have built lakehouse and warehouse architectures using Medallion principles, Delta Lake, and star schemas, with a focus on data quality, monitoring, and CI/CD. I continuously improve my skills through real-world projects and guided certifications while preparing for production-level data engineering roles.</h4>
+<h4 align="center">Data Engineer experienced in building and optimizing cloud-native data platforms with tools like AWS, Snowflake, Databricks, and
+dbt. Mid-level professional with a solid track record designing robust ELT pipelines, data models, and delivering solutions such as
+an end-to-end CDC pipeline that reduced data latency by 30% for ML and analytics use cases. Skilled in implementing data quality,
+monitoring, and CI/CD practices to ensure reliable operations. Looking to apply strong technical and problem-solving skills to drive
+impactful data solutions for business growth.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRqbjJoMjJqdmxvZHBqZWNwbHBxNnk4d3U1djdqMmZsYXlhcDllbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/836HiJc7pgzy8iNXCn/giphy.gif">
 
