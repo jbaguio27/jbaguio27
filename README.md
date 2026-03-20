@@ -14,11 +14,13 @@ impactful data solutions for business growth.</h4>
 
 - 💬 Ask me about **ETL and ELT pipelines, lakehouse architecture, Python, SQL, data modeling, orchestration, and data quality.**
 
-- 📫 How to reach me **LinkedIn: https://www.linkedin.com/in/josephbaguio27339198/ GitHub: github.com/jbaguio27**
+- 📫 How to reach me:
+  <p align="left"> LinkedIn: https://www.linkedin.com/in/josephbaguio27339198
+  <p align="left"> GitHub: github.com/jbaguio27
 
 - 👨‍💻 All of my projects are available at **[https://sephportfolio.vercel.app/](https://sephportfolio.vercel.app/)**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1TjDyjFtFS1i125pmOnZL5GyKVqpW5-Z-/view?usp=sharing)**
+- 📄 Know about my experiences **[here.](https://drive.google.com/file/d/1TjDyjFtFS1i125pmOnZL5GyKVqpW5-Z-/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
