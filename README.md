@@ -1,4 +1,4 @@
-<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/49f7e403-c4d2-4aa3-87d4-41d67499da99" />
+<img width="2036" height="517" alt="image" src="https://github.com/user-attachments/assets/6cee557b-3772-40c8-8c75-064417db0f09" />
 
 <h1 align="center">Hi 👋, I'm Joseph Baguio</h1>
 <h4 align="center">Data Engineer experienced in building and optimizing cloud-native data platforms with tools like AWS, Snowflake, Databricks, and
