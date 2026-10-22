@@ -85,10 +85,13 @@ Data Engineer building cloud data pipelines, Lakehouse architectures, and analyt
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">APIs and Development</h4>
+<h4 align="left">APIs and Web Development</h4>
 <p align="left">
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40" /></a>
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" /></a>
 </p>
