@@ -22,7 +22,7 @@ Data Engineer building cloud data pipelines, Lakehouse architectures, and analyt
 
 - 👨‍💻 Projects and portfolio: **[sephportfolio.vercel.app](https://sephportfolio.vercel.app/)**
 
-- 📄 Resume: **[View my resume](https://drive.google.com/file/d/1TjDyjFtFS1i125pmOnZL5GyKVqpW5-Z-/view?usp=sharing)**
+- 📄 Resume: **[View my resume](https://drive.google.com/file/d/1e1S4gsLaTnGWWui_PHYx0yagGD3URbdQ/view?usp=sharing)**
 
 - 🎓 Certifications: **Databricks Certified Data Engineer Associate, Microsoft Certified: Fabric Data Engineer Associate, Azure Fundamentals.**
 
